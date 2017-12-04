@@ -1,0 +1,12 @@
+Colgate University, Northeast, 27025
+Duke University, Southeast, 26000
+Kalamazoo College, Midwest, 19764
+Stanford University, West, 25917
+Florida International University, Southeast, 10800
+Dartmouth College, Northeast, 27764
+Spelman College, Southeast, 11455
+
+Colgate University, Northeast, 27500
+
+Florida International University, Southeast, 10800
+Spelman College, Southeast, 11455
